@@ -173,7 +173,7 @@ Claude can use the MCP tools to:
 The images above show Claude attempting to simulate a battle between Pikachu and Bulbasaur, encountering an error with the Pokémon name matching, and then trying to get information about Pikachu to troubleshoot.
 
 ### Data Query Tools and Battle Simulation:
-![Pokemon MCP Example](images/battle_simulation_2.png)
+![Pokemon MCP Example](images/battle_simulation.png)
 
 ### Data Query Tools:
 ```json
